@@ -1,0 +1,18 @@
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.exe.config
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.exe
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.pdb
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.xml
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.vbprojAssemblyReference.cache
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\MainWindow.g.vb
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Application.g.vb
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test_MarkupCompile.cache
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test_MarkupCompile.lref
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\MainWindow.baml
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.g.resources
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel_Dev_Test.Resources.resources
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.vbproj.GenerateResource.cache
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.vbproj.CoreCompileInputs.cache
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.exe
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.xml
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.pdb
+c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\GeneratedInternalTypeHelper.g.vb
