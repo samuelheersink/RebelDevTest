@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry>
+    <Key>Lorem</Key>
+    <Value>Ipsum</Value>
+  </Entry>
+  <Entry>
+    <Key>Sample</Key>
+    <Value>Text</Value>
+  </Entry>
+  <Entry>
+    <Key>Super</Key>
+    <Value>Smash Brothers</Value>
+  </Entry>
+</ArrayOfEntry>

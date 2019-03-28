@@ -1,0 +1,21 @@
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.exe.config
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.exe
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.pdb
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.xml
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.vbprojAssemblyReference.cache
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\MainWindow.g.vb
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Application.g.vb
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test_MarkupCompile.cache
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test_MarkupCompile.lref
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\MainWindow.baml
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.g.resources
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel_Dev_Test.Resources.resources
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.vbproj.GenerateResource.cache
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.vbproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.exe
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.xml
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.pdb
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.exe.manifest
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Release\Rebel Dev Test.application
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.exe.manifest
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Release\Rebel Dev Test.application

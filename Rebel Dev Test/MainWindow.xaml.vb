@@ -29,6 +29,7 @@ Class RebelDevTest
     'Add each selected element from the input box to the collection of values
     Private Sub BtnAdd_Click(sender As Object, e As RoutedEventArgs) Handles btnAdd.Click
         Dim toInsert = ""
+        Dim toRemove As New List(Of Input)
         'Finish the current edit
         dgInput.CommitEdit()
 
@@ -44,19 +45,23 @@ Class RebelDevTest
 
                 'Add the key value pair to the list of values
                 Dim toInsertSplit = toInsert.Split("=")
-
-                'Add the pair to the collection of values
                 data.Values.Add(New Entry(toInsertSplit(0), toInsertSplit(1)))
 
-                'Remove the entry that was added from the input box
-                data.Inputs.Remove(CType(elem.Item, Input))
+                'Mark this input as inserted, we remove it from the box later
+                toRemove.Add(CType(elem.Item, Input))
 
-                'If this was the last element in the input field, add a blank and editable item
-                If data.Inputs.Count = 0 Then
-                    data.Inputs.Add(New Input(""))
-                End If
             End If
         Next
+
+        'Remove from the input all the elements we added to the collection
+        For Each elem As Input In toRemove
+            data.Inputs.Remove(elem)
+        Next
+
+        'If we removed everything from the input field, add a blank item for editing
+        If data.Inputs.Count = 0 Then
+            data.Inputs.Add(New Input(""))
+        End If
 
     End Sub
     'Remove the selected element from the right column from the list of values, then add it back into the Input box in case it needs to be edited
@@ -82,10 +87,11 @@ Class RebelDevTest
     Private Sub BtnExport_Click(sender As Object, e As RoutedEventArgs) Handles btnExport.Click
         'Serialize the contents of the Values object to XML
         Dim xmlSerializer As New Xml.Serialization.XmlSerializer(data.Values.GetType)
+        Dim writer = New IO.StreamWriter("output.xml")
+        xmlSerializer.Serialize(writer, data.Values)
 
-        Using writer As New IO.StreamWriter("output.xml")
-            xmlSerializer.Serialize(writer, data.Values)
-        End Using
+        'Open the folder location so the file can be viewed
+        Process.Start("explorer.exe", My.Application.Info.DirectoryPath)
     End Sub
 
     'Sort the list of elements in the list alphabetically by their keys

@@ -16,3 +16,7 @@ c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Te
 c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.xml
 c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.pdb
 c:\users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.exe.manifest
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\bin\Debug\Rebel Dev Test.application
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.exe.manifest
+C:\Users\samue\source\repos\Rebel Dev Test\Rebel Dev Test\obj\Debug\Rebel Dev Test.application
